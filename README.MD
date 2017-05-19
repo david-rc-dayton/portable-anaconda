@@ -1,10 +1,11 @@
 # portable-anaconda
 
-Create a portable Anaconda (Python) runtime for Win32. The runtime can be
-created from the Anaconda or Miniconda installer file.
+Create a portable [Anaconda](https://www.continuum.io/anaconda-overview)
+(Python) runtime for Win32. The runtime can be created from the Anaconda or
+Miniconda installer file.
 
-This script requires 7-Zip. See your distribution's package management guide
-for installation instructions.
+This script requires [7-Zip](http://www.7-zip.org/). See your distribution's
+package management guide for installation instructions.
 
 ## Usage
 
