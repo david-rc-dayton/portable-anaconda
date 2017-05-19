@@ -22,7 +22,7 @@ The terminal will display the script's status, and a file
 
 ## License
 
-Copyright (c) `2017` `David RC Dayton`
+Copyright © `2017` `David RC Dayton`
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the “Software”), to deal in
